@@ -1,1 +1,1 @@
-# psy8960-week2.
+# psy8960-week2
